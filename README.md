@@ -127,6 +127,8 @@ $cd PhisingGame
 $cat buku.txt
 
 
+Tutorial berikutnya? Next time again ea tod :)
+
 
 
 
